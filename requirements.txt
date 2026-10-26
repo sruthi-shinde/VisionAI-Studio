@@ -1,4 +1,4 @@
-gradio>=5.0,<7.0
+streamlit
+Pillow
 transformers>=4.44
 torch
-pillow>=10.0
